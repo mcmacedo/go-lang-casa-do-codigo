@@ -1,0 +1,6 @@
+.vscode
+**.code-workspace
+
+bin/
+src/github**/
+src/golang**/
